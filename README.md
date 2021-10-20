@@ -17,13 +17,13 @@ What variable(s) are neither targets nor features, and should be removed from th
 
 ### Compiling, Training, and Evaluating the Model
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
-Adding additional neurons, layers and differt activation functions can help achieve a better accuracy rate. 
+- Adding additional neurons, layers and differt activation functions can help achieve a better accuracy rate. 
 
 Were you able to achieve the target model performance?
-No, every iteration of optimization only achieved about 73%. 
+- No, every iteration of optimization only achieved about 73%. 
 
 What steps did you take to try and increase model performance?
-Changing number of hidden layers, neurons within each layer and activation function. 
+- Changing number of hidden layers, neurons within each layer and activation function. 
 
 ## Summary: Summarize the overall results of the deep learning model.
 - Overall the optimized network failed to meet the 75% accuracy goal. 
